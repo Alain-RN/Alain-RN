@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div >
-  <img src="pix.gif" alt="Jeu Pixel Art" width="300" height="300" style="text-align: center">
-</div>
+<p style="text-align: center">
+  <img src="pix.gif" alt="Jeu Pixel Art" width="200" height="200">
+</p>
 

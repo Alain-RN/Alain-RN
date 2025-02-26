@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="pix.gif" alt="Jeu Pixel Art">
 
 <!--
 **Alain-RN/Alain-RN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -14,7 +14,7 @@ Développeur passionné par la programmation et l’apprentissage de nouvelles t
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
-## 📊 Mes statistiques GitHub
 
+---
 
 > _"Toujours apprendre, toujours progresser."_ 🔹

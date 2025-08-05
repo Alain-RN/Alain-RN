@@ -26,10 +26,10 @@ Développeur passionné par la programmation et l’apprentissage de nouvelles t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alain-RN&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF" height="160" alt="Top Langs" />
 </p>
 
-<br><br>
+<br>
 
-<p style="font-style:italic; font-size:24px; color:#00f0ff; border-left:6px solid #ff00f0; padding-left:1em; max-width:600px; margin:auto;">
-  "Toujours apprendre, toujours progresser."
-</p>
+<blockquote style="font-style:italic; font-size:24px; color:#00f0ff; border-left:6px solid #ff00f0; padding-left:1em; max-width:600px; margin:auto;">
+  "Toujours apprendre, toujours progresser." 🔹
+</blockquote>
 
 </div>

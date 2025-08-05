@@ -1,4 +1,4 @@
-## Salut, moi c'est Alain-RN
+## 👋 Salut, moi c'est Alain-RN
 
 Développeur passionné par la programmation et l’apprentissage de nouvelles technologies. 
 

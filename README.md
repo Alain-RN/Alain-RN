@@ -1,9 +1,9 @@
-## 👋 Salut, moi c'est Alain-RN
+## Salut, moi c'est Alain-RN
 
 Développeur passionné par la programmation et l’apprentissage de nouvelles technologies. 
 
 
-## 🛠️ Langages et technologies
+## Langages et technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>

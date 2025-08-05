@@ -16,11 +16,5 @@ Développeur passionné par la programmation et l’apprentissage de nouvelles t
 
 ## 📊 Mes statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoGitHub&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
 
 > _"Toujours apprendre, toujours progresser."_ 🔹

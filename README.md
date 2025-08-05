@@ -6,7 +6,7 @@
 Développeur passionné par la programmation et l’apprentissage de nouvelles technologies.
 </p>
 
-<br><br><br>
+<br>
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -17,7 +17,7 @@ Développeur passionné par la programmation et l’apprentissage de nouvelles t
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
 </p>
 
-<br><br><br>
+<br>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Alain-RN&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00F0" height="160" alt="GitHub Stats" />

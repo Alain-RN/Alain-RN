@@ -1,3 +1,4 @@
 ## Hi there 👋
-![Rust](https://www.rust-lang.org/logos/rust-logo-512x512.png)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
 

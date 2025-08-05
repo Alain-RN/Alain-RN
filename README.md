@@ -2,6 +2,8 @@
 
 # 👋 Salut, moi c'est Alain-RN
 
+<br>
+
 <p style="font-size:16px; max-width:600px; line-height:1.6; color:#a0a8b5; margin-top:60px;">
 Développeur passionné par la programmation et l’apprentissage de nouvelles technologies.
 </p>
@@ -24,10 +26,10 @@ Développeur passionné par la programmation et l’apprentissage de nouvelles t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alain-RN&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF" height="160" alt="Top Langs" />
 </p>
 
-<br><br><br>
+<br><br>
 
-<blockquote style="font-style:italic; font-size:24px; color:#00f0ff; border-left:6px solid #ff00f0; padding-left:1em; max-width:600px; margin:auto;">
+<p style="font-style:italic; font-size:24px; color:#00f0ff; border-left:6px solid #ff00f0; padding-left:1em; max-width:600px; margin:auto;">
   "Toujours apprendre, toujours progresser."
-</blockquote>
+</p>
 
 </div>

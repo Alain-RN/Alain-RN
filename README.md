@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Salut, moi c'est Alain-RN
+# 👋 Hi, I’m Alain-RN
 
 <br>
 
 <p style="font-size:16px; max-width:600px; line-height:1.6; color:#a0a8b5; margin-top:60px;">
-Développeur passionné par la programmation et l’apprentissage de nouvelles technologies.
+Passionate developer focused on programming and learning new technologies.
 </p>
 
 <br>
@@ -29,7 +29,8 @@ Développeur passionné par la programmation et l’apprentissage de nouvelles t
 <br>
 
 <blockquote style="font-style:italic; font-size:24px; color:#00f0ff; border-left:6px solid #ff00f0; padding-left:1em; max-width:600px; margin:auto;">
-  "Toujours apprendre, toujours progresser." 🔹
+  "Always learning, always improving." 🔹
 </blockquote>
 
 </div>
+

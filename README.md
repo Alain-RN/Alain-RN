@@ -19,15 +19,6 @@ Passionate developer focused on programming and learning new technologies.
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
 </p>
 
-<br>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Alain-RN&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00F0" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alain-RN&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF" height="160" alt="Top Langs" />
-</p>
-
-<br>
-
 <blockquote style="font-style:italic; font-size:24px; color:#00f0ff; border-left:6px solid #ff00f0; padding-left:1em; max-width:600px; margin:auto;">
   "Always learning, always improving." 🔹
 </blockquote>
